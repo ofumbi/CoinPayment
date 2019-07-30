@@ -1,5 +1,5 @@
 {
-    "name": "hexters/coinpayment",
+    "name": "ofumbi/coinpayment",
     "description": "CoinPayment PHP client for Laravel",
     "keywords": ["Payment Method", "cryptocurrency", "Payment Gateway", "CoinPayment"],
     "license": "MIT",
@@ -12,7 +12,7 @@
     "require":{
       "php": ">=7.1",
       "guzzlehttp/guzzle": "^6.3",
-      "nesbot/carbon": "^1.25"
+      "nesbot/carbon": "^2.19.2"
     },
     "extra": {
         "laravel": {
